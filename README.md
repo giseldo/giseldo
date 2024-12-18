@@ -21,7 +21,7 @@ Here are a few projects I've been working on:
 
 ## 📫 How to Reach Me
 
-- **Email**: [your-email@example.com](mailto:giseldo@gmail.com)
+- **Email**: [giseldo@gmail.com](mailto:giseldo@gmail.com)
 - **LinkedIn**: [Giseldo](https://linkedin.com/in/giseldo)
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi!
