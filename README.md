@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Giseldo! 👋
 
-<!--
-**giseldo/giseldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate software developer and technology enthusiast who loves to learn and build new things. 
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, Python, Java, C++
+- **Frameworks & Libraries**: React, Node.js, Express, Django, Spring
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms**: Docker, Git, GitHub Actions, AWS, Azure
+
+## 🚀 Projects
+
+Here are a few projects I've been working on:
+
+- **[Project Name](https://github.com/giseldo/blog)**: Meu Blog
+
+## 📈 GitHub Stats
+
+![Giseldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giseldo&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- **Email**: [your-email@example.com](mailto:giseldo@gmail.com)
+- **LinkedIn**: [Giseldo](https://linkedin.com/in/giseldo)
+
+Feel free to reach out if you want to collaborate on a project or just want to say hi!
+
+---
+
+*Thank you for visiting my profile!*
