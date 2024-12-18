@@ -13,7 +13,7 @@ I am a passionate software developer and technology enthusiast who loves to lear
 
 Here are a few projects I've been working on:
 
-- **[Project Name](https://github.com/giseldo/blog)**: Meu Blog
+- **[Blog](https://github.com/giseldo/blog)**: Meu Blog
 
 ## 📈 GitHub Stats
 
