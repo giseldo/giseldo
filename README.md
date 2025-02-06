@@ -13,7 +13,7 @@ I am a passionate software developer and technology enthusiast who loves to lear
 
 Here are a few projects I've been working on:
 
-- **[Blog](https://giseldo.hashnode.dev)**: Meu Blog
+- **[Blog Inteligência Artificial Descomplicada](https://giseldo.hashnode.dev)**: 
 
 ## 📈 GitHub Stats
 
