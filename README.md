@@ -6,9 +6,7 @@ I am a passionate software developer and technology enthusiast who loves to lear
 
 Here are a few projects I've been working on:
 
-![Giseldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giseldo&show_icons=true&theme=radical)
-
-- **[Site Principal](https://giseldo.github.io)**: 
+- **[Site Principal](https://giseldo.github.io)** 
 
 - **[Blog Inteligência Artificial Descomplicada](https://giseldo.hashnode.dev)**: 
 
