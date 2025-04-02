@@ -8,7 +8,7 @@ Here are a few projects I've been working on:
 
 - **[Site Principal](https://giseldo.github.io)** 
 
-- **[Blog Inteligência Artificial Descomplicada](https://giseldo.hashnode.dev)**: 
+- **[Blog Inteligência Artificial Descomplicada](https://giseldo.hashnode.dev)** 
 
 ## 📈 GitHub Stats
 
