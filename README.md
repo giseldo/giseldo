@@ -1,6 +1,6 @@
-# Hey Listen, I'm Giseldo! 👋
+# Hey Listen, I'm Giseldo Neo! 👋
 
-I am a passionate software developer and technology enthusiast who loves to learn and build new things. 
+I am a passionate software developer and technology enthusiast who loves to learn and build things that solve problems. 
 
 ## 🚀 Projects
 
