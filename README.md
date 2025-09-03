@@ -16,8 +16,8 @@ Here are a few projects I've been working on:
 
 ## 📫 How to Reach Me
 
-- **Email**: [giseldo@gmail.com](mailto:giseldo@gmail.com)
-- **LinkedIn**: [Giseldo](https://linkedin.com/in/giseldo)
+- [giseldo@gmail.com](mailto:giseldo@gmail.com)
+- [LinkedIn Profile](https://linkedin.com/in/giseldo)
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi!
 
